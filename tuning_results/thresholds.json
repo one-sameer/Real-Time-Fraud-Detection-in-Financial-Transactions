@@ -1,0 +1,16 @@
+{
+    "best_binary": {
+        "thr": 0.34,
+        "score": 0.8275862068965517
+    },
+    "best_pair": {
+        "score": 0.8927938138630184,
+        "safe_thr": 0.01,
+        "fraud_thr": 0.51,
+        "metrics": {
+            "fraud_recall": 0.8469387755102041,
+            "safe_specificity": 0.9997889033529184,
+            "review_rate": 0.00022822232365436607
+        }
+    }
+}
